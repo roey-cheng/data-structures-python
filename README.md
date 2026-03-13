@@ -4,6 +4,7 @@ This repository contains Python implementations of fundamental data structures.
 
 ## Implemented Structures
 
+- Array
 - Stack
 - Queue
 - Binary Tree
